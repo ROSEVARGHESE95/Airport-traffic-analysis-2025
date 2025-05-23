@@ -47,7 +47,7 @@ Future use:
 
 • Reduce delays and congestion
 
-Real-Time Decision Support System Your model can be integrated into an airport’s dashboard to:
+Real-Time Decision Support System  model can be integrated into an airport’s dashboard to:
 
 • Continuously predict today’s or tomorrow’s flight traffic
 
