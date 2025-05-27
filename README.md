@@ -39,15 +39,15 @@ Traditional forecasting methods use simple rules or historical averages, which c
 
 Airports and airlines can use the model to predict daily or weekly flight traffic and plan resources accordingly.
 
-Future use:
-
+* Future use:
+-------------
 • Schedule runways, staff shifts, and ground services
 
 • Predict busiest days or seasons
 
 • Reduce delays and congestion
 
-Real-Time Decision Support System  model can be integrated into an airport’s dashboard to:
+* Real-Time Decision Support System  model can be integrated into an airport’s dashboard to:
 
 • Continuously predict today’s or tomorrow’s flight traffic
 
@@ -55,15 +55,15 @@ Real-Time Decision Support System  model can be integrated into an airport’s d
 
 • Help managers make decisions on-the-fly
 
-Government and airport authorities can use it to:
-
+* Government and airport authorities can use it to:
+-----------------------------------------------------
 • Forecast yearly growth
 
 • Decide on new terminals, runways, or equipment
 
 • Invest based on data-driven traffic predictions
 
-Airports can use predicted traffic numbers to:
+* Airports can use predicted traffic numbers to:
 
 • Estimate revenue (more flights = more income)
 
@@ -71,8 +71,8 @@ Airports can use predicted traffic numbers to:
 
 • Justify funding or expansions
 
-Environmental& Regulatory Planning With traffic predictions:
-
+* Environmental& Regulatory Planning With traffic predictions:
+-----------------------------------------------------------------
 • Authorities can control air pollution or noise levels
 
 • Apply caps or curfews to maintain compliance
